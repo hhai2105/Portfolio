@@ -12,7 +12,7 @@ const About = () => {
                   Hi, I&#39;m <span className='text-[#5651e5]'> Hai</span>
             </h1>
             <p className="py-2 text-gray-600">
-                I'm a junior at University of Massachusetts, Amherst, majoring in Computer Science<br/>
+                I&apos;m a junior at University of Massachusetts, Amherst, majoring in Computer Science<br/>
                 with skills in Machine Learning, Data Analysis, and Software Engineering
             </p>
               <p className="py-2 text-gray-600">

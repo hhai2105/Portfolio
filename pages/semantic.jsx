@@ -27,7 +27,7 @@ const crypto = () => {
                     <p>Project</p>
                     <h2>Overview</h2>
                     <p>
-                        Project-semantic is a web application taht lets user stores and search pdfs by using React, Express, and MongoDB
+                        Project-semantic is a web application that lets user stores and search pdfs by using React, Express, and MongoDB
                     </p>
                     <p>
                         I&apos;ve created an intelligent search engine by implementing sentence embedding using SBERT.net&apos;s sentence transformer, saving up to $0.45 for every document as compared to OpenAI.

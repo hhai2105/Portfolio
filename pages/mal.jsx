@@ -27,17 +27,17 @@ const crypto = () => {
                 <p>Project</p>
                 <h2>Overview</h2>
                 <p>
-                    A web-application that recommends user anime based on an anime that they liked.
+                    A web application recommends user anime based on an anime they liked.
                 </p>
                 <p>
-                    Uses a collaborative-filtering system with matrix factorization using svd to find the top anime that is the same based on user ratings.
+                    It uses a collaborative-filtering system with matrix factorization using svd to find the top anime that is the same based on user ratings.
                 </p>
                 <p>
-                    The data used is from kaggle:
+                    The data used is from Kaggle:
                     https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
                 </p>
                 <p>
-                    Website Implemented with React, React-redux, Express
+                    Implemented with React, React-redux, Express
                 </p>
                 <a
                     href='https://github.com/1n0r1/MALRec'
